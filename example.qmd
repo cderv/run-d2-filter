@@ -1,0 +1,24 @@
+---
+title: "D2 Example using the d2-filter"
+filters:
+  - run-d2-filter
+---
+
+## Simple example
+
+From <https://d2lang.com/tour/hello-world>
+
+```{.d2 pad=20}
+x -> y
+```
+
+## Cycles 
+
+From <https://d2lang.com/tour/connections#cycles-are-okay>
+
+```{.d2}
+Stage One -> Stage Two -> Stage Three -> Stage Four
+Stage Four -> Stage One: repeat
+```
+
+
