@@ -1,6 +1,10 @@
 # Extension For Quarto to run D2-filter
 
-***THIS IS NOW ARCHIVE AND YOU SHOULD USE https://github.com/data-intuitive/quarto-d2 INSTEAD***
+------------
+
+***THIS REPO IS NOW ARCHIVED AND YOU SHOULD USE https://github.com/data-intuitive/quarto-d2 INSTEAD with QUARTO***
+
+-----------
 
 This extension is simply a Lua wrapper to run JSON filter `d2-filter` which allow to use **d2** diagrams in Pandoc
 
